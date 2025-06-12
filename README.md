@@ -35,7 +35,7 @@ This project explores the relationship between regional crime rates and demograp
   <img width="677" alt="Key Driver of Crime" src="https://github.com/user-attachments/assets/deea16fb-80e0-4a12-a03c-0dc83628bbdc" />
   <img width="677" alt="Linear Regression" src="https://github.com/user-attachments/assets/a3d987c7-6b6e-4448-b314-4e8ff5cc6f16" />
 
-- Trial Rate: Not significantly predicted by the current demographic features, suggesting the need for additional contextual data.
+- Trial Rate: Not significantly predicted by the current features, suggesting the need for additional contextual data.
   <img width="677" alt="Key Driver of Trial Rate" src="https://github.com/user-attachments/assets/793a9543-03b7-4191-9aec-b57f4066684c" />
 
 - Geographic Hotspots: Central Ontario (Toronto, Peel, Durham) accounts for over 40% of all criminal cases.

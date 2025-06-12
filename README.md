@@ -32,14 +32,14 @@ This project explores the relationship between regional crime rates and demograp
 
 ### 📁 Key Findings
 - High Crime Drivers are % of female lone-parent families, % of immigrants and % of visible minorities. These variables showed statistically significant correlations (p ≈ 0) and explained up to 72% of crime case variance.
-  <img width="677" alt="Key Driver of Crime" src="https://github.com/user-attachments/assets/deea16fb-80e0-4a12-a03c-0dc83628bbdc" />
-  <img width="677" alt="Linear Regression" src="https://github.com/user-attachments/assets/a3d987c7-6b6e-4448-b314-4e8ff5cc6f16" />
+  <img width="660" alt="Key Driver of Crime" src="https://github.com/user-attachments/assets/deea16fb-80e0-4a12-a03c-0dc83628bbdc" />
+  <img width="660" alt="Linear Regression" src="https://github.com/user-attachments/assets/a3d987c7-6b6e-4448-b314-4e8ff5cc6f16" />
 
-- Trial Rate: Not significantly predicted by the current features, suggesting the need for additional contextual data.
-  <img width="677" alt="Key Driver of Trial Rate" src="https://github.com/user-attachments/assets/793a9543-03b7-4191-9aec-b57f4066684c" />
+- Trial Rate: Not significantly predicted by the current features, suggesting the need for additional data.
+  <img width="660" alt="Key Driver of Trial Rate" src="https://github.com/user-attachments/assets/793a9543-03b7-4191-9aec-b57f4066684c" />
 
 - Geographic Hotspots: Central Ontario (Toronto, Peel, Durham) accounts for over 40% of all criminal cases.
-  <img width="676" alt="Geographic Hotspots" src="https://github.com/user-attachments/assets/2b54f81d-f9b0-4bc1-8afd-7af7fa3515e5" />
+  <img width="660" alt="Geographic Hotspots" src="https://github.com/user-attachments/assets/2b54f81d-f9b0-4bc1-8afd-7af7fa3515e5" />
 
 ### 📑 Recommendations
 - Invest in support services for lone-parent families and new immigrants (e.g., counselling, financial aid).

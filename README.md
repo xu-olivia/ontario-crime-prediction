@@ -1,15 +1,5 @@
 # Ontario Crime Analysis and Prediction
 
-## 📖 Table of Contents
-- [Overview](#overview)
-- [Objectives](#objectives)
-- [Data Sources](#data-sources)
-- [Analytical Approach](#analytical-approach)
-- [Key Findings](#key-findings)
-- [Recommendations](#recommendations)
-- [Output Files](#output-files)
-- [Next Steps](#next-steps)
-
 ### 📌 Overview
 This project explores the relationship between regional crime rates and demographic factors across Ontario. Using publicly available crime statistics and demographic data by health unit, the analysis identifies the key drivers of criminal activity and provides policy-oriented recommendations.
 
